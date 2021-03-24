@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi👋, my name is **Sherafgan Mirov** 
+## I'm a beginer *Front-end developer* from Tajikistan.
+###🔭 Check my work: (https://stackblitz.com/@Mirov-Sherafgan)
+###🌱 I’m currently learning Front-end developer in Ilmhona.
+### Languages and Technologies
+![JavaScript] (https://stackblitz.com/edit/regexp-sh)
+![React] (https://stackblitz.com/edit/react-puvjzi)
+### Mail me: mirov.she@gmail.com
+### Telegram: @sherafganmirov
 
-<!--
-**Mirov-Sherafgan/Mirov-Sherafgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> A good book is like a conversation with a smart person. <br/>
+> ***Lev Tolstoy***
